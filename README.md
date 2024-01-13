@@ -2,20 +2,26 @@
 
 ## Who am I 
 ```js
-class WhoAmI:
-	user = 'Daria Furman'
-   	current_work = 'Learning WebDev at Spiced Academy
-    education = [
-   			'Bachelor at Computer Science',
-   			'Masters at Computer Engineering' ] 
-    hobbies = [
-   			'Photography',
-   			'Cooking',
-   			'Travel'   		]
-     		
-   
-   def getCity():
-   	return Kharkiv_Ukraine()
+class WhoAmI {
+  constructor() {
+    this.user = 'Daria Furman';
+    this.current_work = 'Learning WebDev at Spiced Academy';
+    this.education = [
+      'Bachelor at Computer Science',
+      'Masters at Computer Engineering'
+    ];
+    this.hobbies = [
+      'Photography',
+      'Cooking',
+      'Travel'
+    ];
+  }
+
+  getCity() {
+    return 'Kharkiv, Ukraine';
+  }
+}
+
 
    ```
 _________________
