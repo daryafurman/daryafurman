@@ -39,6 +39,6 @@ _________________
 <img src = "./pic/git.png" alt="githublogo" width="35" height="35"> <a href= "https://github.com/daryafurman"></a>
 <img src = "./pic/inst.png" alt="instagramlogo" width="35" height="35"> <a href= "https://www.instagram.com/darya_furman/"></a>
 
-![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryafurman&theme=dark&show_icons=true)
+![Daria's GitHub stats](https://github-readme-stats.vercel.app/api?username=daryafurman&theme=transparent&show_icons=true)
  
 
