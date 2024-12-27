@@ -5,7 +5,7 @@
 class WhoAmI {
   constructor() {
     this.user = 'Daria Furman';
-    this.current_work = 'Learning WebDev at Spiced Academy';
+    this.current_work = 'Building web apps';
     this.education = [
       'Bachelor at Computer Science',
       'Masters at Computer Engineering'
